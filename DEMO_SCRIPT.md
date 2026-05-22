@@ -2,7 +2,7 @@
 
 ## Short Introduction
 
-Hello, my name is <your name>. This is my To-Do List CLI project for the Synent Technologies Python Development Internship.
+Hello, my name is Dhruv Patel. This is my To-Do List CLI project for the Synent Technologies Python Development Internship.
 
 ## What To Show
 
